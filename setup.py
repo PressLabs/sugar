@@ -5,7 +5,7 @@ tests_require = ['pytest', 'pytest-runner>=2.0,<3dev', 'pytest-flake8']
 
 setup(
     name='presslabs-sugar',
-    version='1.0.0',
+    version='1.1.0',
     description="Various sugars and goodies for projects.",
     long_description=open('README.rst', 'r').read(),
     license="MIT",
