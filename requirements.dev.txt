@@ -1,0 +1,11 @@
+-r requirements.txt
+
+Django
+
+# testing tools
+pytest<3.1
+pytest-django<3.2
+pytest-flake8
+pytest-runner>=2.0,<3dev
+
+-e .[test]
